@@ -30,7 +30,7 @@ This FastAPI implementation features a modern, production-ready architecture:
 ### Project Structure
 
 ```
-openai_agent_twilio/
+openai_voice_agent_twilio/
 ├── 📱 app/                          # Main application package
 │   ├── 📄 main.py                   # FastAPI application entry point
 │   ├── ⚙️ config.py                 # Configuration management
