@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Response>
-  <Say>Welcome to SA Water. This is Lin, how can I help you?</Say>
+  <Say>Hi, how can I help you?</Say>
   <Connect>
     <Stream url="{{WS_URL}}" />
   </Connect>
